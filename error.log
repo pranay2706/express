@@ -1,0 +1,1 @@
+{"error":"Error: User already exists. Please login\n    at C:\\express office\\socialMedia\\controller\\authController.js:66:21\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","level":"error","message":"User already exists. Please login","timestamp":"2024-07-12 12:19:54"}
